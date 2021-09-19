@@ -28,5 +28,5 @@ Topic, kısaca mesajların toplandığı ve mesajların sıralı şekilde gönde
 
 Devamındaki implementasyonları sizin için hazırlamış olduğum aşağıdaki youtube videosundan takip edebilirsiniz.
 
-[![PubSumImplementationPython](https://img.youtube.com/vi/e1AoKDlxMlg/1.jpg)](https://www.youtube.com/watch?v=e1AoKDlxMlg "PubSumImplementationPython")
+[![PubSumImplementationPython](https://img.youtube.com/vi/e1AoKDlxMlg/0.jpg)](https://www.youtube.com/watch?v=e1AoKDlxMlg "PubSumImplementationPython")
 
